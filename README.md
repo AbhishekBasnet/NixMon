@@ -2,7 +2,10 @@
 
 Real-time Linux system monitor over TCP sockets. A lightweight server reads kernel metrics from `/proc` and streams them to connected clients, which render a live terminal dashboard.
 
-Built as a minor project for Network Programming BSE 8th Semester, Pokhara University.
+Built as a minor project for Network Programming,
+Bachelors in Software Engineering 8th Semester<br>
+Nepal College of Information Technology <br> 
+Pokhara University.
 
 ## What It Does
 
@@ -83,7 +86,7 @@ nixmon/
 │   └── client/          
 ├── include/             
 ├── docs/                
-├── tests/               NixMon = "Unix/Linux Monitor.
+├── tests/               
 ├── CMakeLists.txt
 ├── .gitignore
 ├── LICENSE
@@ -107,8 +110,9 @@ nixmon/
 
 ## Author
 
-**Abhishek Man Basnet** (211703) <br>
-BSE 8th Semester, Nepal College of Information Technology <br>
+**Abhishek Man Basnet** <br>
+Bachelors in Software Engineering 8th Semester<br>
+Nepal College of Information Technology <br>
 Supervisor: Er. Madan Kadariya
 
 ## License
